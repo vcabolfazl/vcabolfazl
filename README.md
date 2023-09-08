@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Abolfazl+👋;Welcome+to+my+profile.!;I'm+Web+Developer;Nice+to+Meet+you😪;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=50&color=F7DF84&width=435&lines=Hi+I'm+Abolfazl+%F0%9F%91%8B;Welcome+to+my+profile.!;I'm+Web+Developer+%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D;Nice+to+Meet+you%F0%9F%98%AA" alt="Typing SVG" />
 </p>
 
 #### - Front-End Developer and  Technology Lover
