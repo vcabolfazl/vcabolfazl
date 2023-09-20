@@ -22,15 +22,4 @@ const response = {
   }
 };
 ```
-<hr/>
-<div align="center">
-      <a href="https://t.me/vc_abolfazl">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  />
-    </a>
-          <a href="https://instagram.com/abolfazl_sharifi051?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"  />
-    </a>
-</div>
-<hr/>
-<img src="exdYuwXjb.jpeg" width="100%"/>
-<hr/>
+<hr />
