@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=50&color=F7DF84&width=435&lines=Hi+I'm+Abolfazl+%F0%9F%91%8B;Welcome+to+my+profile.!;Nice+to+Meet+you&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Typing SVG" />
 </p>
 
-## My Activity
+### My Activity
 
 #### - Front-End Developer and  Technology Lover
 <div align="center">
