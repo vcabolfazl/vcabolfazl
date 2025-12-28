@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=50&color=F7DF84&width=435&lines=Hi+I'm+Abolfazl+%F0%9F%91%8B;Welcome+to+my+profile.!;Nice+to+Meet+you&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Typing SVG" />
 </p>
 
-<h3><samp> Front-End Developer and  Technology Lover </samp></h3>
+<h3><samp> Web Developer and  Technology Lover </samp></h3>
 
 <div align="center">
 <h1>
@@ -22,14 +22,13 @@ const response = {
     fullName: "Abolfazl Sharifi",
     birthDay: "9 September",
     fieldOfStudy: "Information Technology (IT)",
-    university: "Pardis Mashhad",
+    Educational: "Undergraduate Student",
   }
 };
 ```
 <hr />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcabolfazl&theme=apprentice\&rank_icon=github)
-‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌‌ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vcabolfazl&theme=apprentice\&layout=donut)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcabolfazl&theme=apprentice\&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vcabolfazl&theme=apprentice\&layout=donut)
 
 <h1 align="center"><samp> Check Out My Repos </samp></h1>
 
